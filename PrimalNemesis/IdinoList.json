@@ -4898,7 +4898,7 @@
 	"BD-408":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Storm/Storm_Titan_Character_BP_Whelpling_Tamed.Storm_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "tamed",
+		"dinonametag": "Tamed",
 		"dinodescription": "Storm Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -4958,7 +4958,7 @@
 	"BD-413":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Earth/Earth_Titan_Character_BP_Whelpling_Tamed.Earth_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "tamed",
+		"dinonametag": "Tamed",
 		"dinodescription": "Earth Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -5018,7 +5018,7 @@
 	"BD-418":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Hydro/Hydro_Titan_Character_BP_Whelpling_Tamed.Hydro_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "tamed",
+		"dinonametag": "Tamed",
 		"dinodescription": "Hydro Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -5078,7 +5078,7 @@
 	"BD-423":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Frost/Frost_Titan_Character_BP_Whelpling_Tamed.Frost_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "tamed",
+		"dinonametag": "Tamed",
 		"dinodescription": "Frost Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -5138,7 +5138,7 @@
 	"BD-428":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Nature/Nature_Titan_Character_BP_Whelpling_Tamed.Nature_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "tamed",
+		"dinonametag": "Tamed",
 		"dinodescription": "Nature Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -5198,7 +5198,7 @@
 	"BD-433":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Volcanic/Volcanic_Titan_Character_BP_Whelpling_Tamed.Volcanic_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "tamed",
+		"dinonametag": "Tamed",
 		"dinodescription": "Volcanic Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
