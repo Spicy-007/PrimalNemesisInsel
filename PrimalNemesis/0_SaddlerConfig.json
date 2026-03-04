@@ -3,12 +3,12 @@
 	{
 		"tag": "saddler",
 		"descriptname": "I-Dino Saddler",
-		"description": "Use for get customized Saddels for your Dino.",
+		"description": "Use for get customized Saddels \r\nfor your Dino.",
 		"descriptnameplus": "I-Dino Saddler Plus",
-		"descriptionplus": "Use for get customized Saddels for your Dino.",
+		"descriptionplus": "Use for get customized Saddels \r\nfor your Dino.",
 		"prevalues": [ 25, 150 ],
 		"prequality": 0,
-		"gitimporturl": "https://raw.githubusercontent.com/Spicy-007/PrimalNemesisInsel/main/I-Dino/0_SaddlerConfig.json",
+		"gitimporturl": "",
 		"gitfilenames": [
 			"0_SaddlerConfig",
 			"1_SaddlerConfig",
