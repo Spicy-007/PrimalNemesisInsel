@@ -1,1 +1,26 @@
-
+{
+	"BD-0":
+	{
+		"dinostringref": "/PrimalNemesis/1Dinos/1Alpha/Argentavis/AlphaArgent_Character_BP_PN.AlphaArgent_Character_BP_PN_C",
+		"dinonametag": "Argent",
+		"dinodescription": "Alpha Argentavis",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/PrimalNemesis/1Dinos/1Alpha/Argentavis/AlphaArgent_Character_BP_PN.AlphaArgent_Character_BP_PN_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-1":
+	{
+		"dinostringref": "/PrimalNemesis/1Dinos/1Alpha/Achitina/AlphaAchatina_Character_BP_PN.AlphaAchatina_Character_BP_PN_C",
+		"dinonametag": "Achatina",
+		"dinodescription": "Alpha Achatina",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/PrimalNemesis/1Dinos/1Alpha/Achitina/AlphaAchatina_Character_BP_PN.AlphaAchatina_Character_BP_PN_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	}
+}
