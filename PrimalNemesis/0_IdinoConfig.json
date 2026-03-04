@@ -34,6 +34,17 @@
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
+		},
+		"DS-2":
+		{
+			"dinoindex": 55,
+			"dinoname": "Alpha Pela",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
 		}
 	},
 	"Pdx-1":
@@ -59,11 +70,209 @@
 			"spawnoffset": "0,0,100,",
 			"descriptname": "I-Dino Wildes",
 			"description": "",
-			"statbase": "2,75,250,1,",
+			"statbase": "0,75,180,1,",
 			"reducepointschoosen": [
 				"1,15,"
 			],
 			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 381,
+			"dinoname": "Adv Elemental Lootboss",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
+			"dinoindex": 0,
+			"dinoname": "Alpha Argentavis",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-2":
+		{
+			"dinoindex": 1,
+			"dinoname": "Alpha Achatina",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-3":
+		{
+			"dinoindex": 2,
+			"dinoname": "Alpha Allo",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-4":
+		{
+			"dinoindex": 3,
+			"dinoname": "Alpha Ankylo",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-5":
+		{
+			"dinoindex": 4,
+			"dinoname": "Alpha Ant",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-6":
+		{
+			"dinoindex": 5,
+			"dinoname": "Alpha Archa",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-7":
+		{
+			"dinoindex": 285,
+			"dinoname": "Nature Broodmother",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-8":
+		{
+			"dinoindex": 286,
+			"dinoname": "Nature Dilo",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-9":
+		{
+			"dinoindex": 287,
+			"dinoname": "Nature Dodo",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-10":
+		{
+			"dinoindex": 378,
+			"dinoname": "Resource Rock Golem",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-11":
+		{
+			"dinoindex": 396,
+			"dinoname": "Scion Of Darkness",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-12":
+		{
+			"dinoindex": 304,
+			"dinoname": "Volcanic Ankylo",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-13":
+		{
+			"dinoindex": 305,
+			"dinoname": "Volcanic Arthro",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-14":
+		{
+			"dinoindex": 306,
+			"dinoname": "Volcanic Deathworm",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-15":
+		{
+			"dinoindex": 434,
+			"dinoname": "Volcanic Titan Youngling EVO",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-16":
+		{
+			"dinoindex": 315,
+			"dinoname": "Volcanic Trike",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-17":
+		{
+			"dinoindex": 336,
+			"dinoname": "Ghost Manta",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
 		}
 	},
 	"Pdx-3":
