@@ -638,7 +638,7 @@
 	"BD-53":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/1Alpha/parrot/Alpha_Parrot_Character_BP.Alpha_Parrot_Character_BP_C",
-		"dinonametag": "Parrot",
+		"dinonametag": "parrot",
 		"dinodescription": "Alpha Parrot",
 		"hasegg": true,
 		"tameable": true,
@@ -1790,7 +1790,7 @@
 	"BD-149":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/2Apex/Parrot/Apex_Parrot_Character_BP.Apex_Parrot_Character_BP_C",
-		"dinonametag": "Parrot",
+		"dinonametag": "parrot",
 		"dinodescription": "Apex Parrot",
 		"hasegg": true,
 		"tameable": true,
@@ -3313,18 +3313,6 @@
 	},
 	"BD-276":
 	{
-		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Diplocaulus(Notfornow)/Hydro_Diplocaulus_Character_BP.Hydro_Diplocaulus_Character_BP_C",
-		"dinonametag": "Diplocaulus",
-		"dinodescription": "Hydro Diplocaulus",
-		"hasegg": true,
-		"tameable": true,
-		"isalpha": false,
-		"isboss": false,
-		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Diplocaulus(Notfornow)/Hydro_Diplocaulus_Character_BP.Hydro_Diplocaulus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
-	},
-	"BD-277":
-	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Kairuku/HydroKairuku_Character_BP.HydroKairuku_Character_BP_C",
 		"dinonametag": "Kairuku",
 		"dinodescription": "Hydro Kairuku",
@@ -3335,7 +3323,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Kairuku/HydroKairuku_Character_BP.HydroKairuku_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-278":
+	"BD-277":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Kapro/HydroKaprosuchus_Character_BP.HydroKaprosuchus_Character_BP_C",
 		"dinonametag": "Kaprosuchus",
@@ -3347,7 +3335,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Kapro/HydroKaprosuchus_Character_BP.HydroKaprosuchus_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-279":
+	"BD-278":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Otter/HydroOtter_Character_BP.HydroOtter_Character_BP_C",
 		"dinonametag": "Otter",
@@ -3359,7 +3347,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Otter/HydroOtter_Character_BP.HydroOtter_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-280":
+	"BD-279":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Rex/HydroRex_Character_BP.HydroRex_Character_BP_C",
 		"dinonametag": "Rex",
@@ -3371,7 +3359,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Rex/HydroRex_Character_BP.HydroRex_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-281":
+	"BD-280":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Sarco/HydroSarco_Character_BP.HydroSarco_Character_BP_C",
 		"dinonametag": "Sarco",
@@ -3383,7 +3371,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Sarco/HydroSarco_Character_BP.HydroSarco_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-282":
+	"BD-281":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Spino/HydroSpino_Character_BP.HydroSpino_Character_BP_C",
 		"dinonametag": "Spino",
@@ -3395,7 +3383,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Spino/HydroSpino_Character_BP.HydroSpino_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-283":
+	"BD-282":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Frog/HydroToad_Character_BP.HydroToad_Character_BP_C",
 		"dinonametag": "Toad",
@@ -3407,7 +3395,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Frog/HydroToad_Character_BP.HydroToad_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-284":
+	"BD-283":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Turtle/HydroTurtle_Character_BP.HydroTurtle_Character_BP_C",
 		"dinonametag": "Turtle",
@@ -3419,7 +3407,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Hydro/Turtle/HydroTurtle_Character_BP.HydroTurtle_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-285":
+	"BD-284":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Nature/Bigfoot/Mayan_Bigfoot_BP.Mayan_Bigfoot_BP_C",
 		"dinonametag": "Bigfoot",
@@ -3431,7 +3419,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Nature/Bigfoot/Mayan_Bigfoot_BP.Mayan_Bigfoot_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-286":
+	"BD-285":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Nature/Broodmother/Nature_Broodmother_BP.Nature_Broodmother_BP_C",
 		"dinonametag": "Broodmother",
@@ -3443,7 +3431,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Nature/Broodmother/Nature_Broodmother_BP.Nature_Broodmother_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-287":
+	"BD-286":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Nature/Dilo/Nature_Dilo_Character_BP.Nature_Dilo_Character_BP_C",
 		"dinonametag": "Dilo",
@@ -3455,7 +3443,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Nature/Dilo/Nature_Dilo_Character_BP.Nature_Dilo_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-288":
+	"BD-287":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Nature/Dodo/Nature_Dodo_Character_BP.Nature_Dodo_Character_BP_C",
 		"dinonametag": "Dodo",
@@ -3467,7 +3455,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Nature/Dodo/Nature_Dodo_Character_BP.Nature_Dodo_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-289":
+	"BD-288":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Nature/Beetle/Nature_DungBeetle_Character_BP.Nature_DungBeetle_Character_BP_C",
 		"dinonametag": "DungBeetle",
@@ -3479,7 +3467,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Nature/Beetle/Nature_DungBeetle_Character_BP.Nature_DungBeetle_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-290":
+	"BD-289":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Nature/Lymantria/Nature_Moth_Character_BP.Nature_Moth_Character_BP_C",
 		"dinonametag": "Moth",
@@ -3491,7 +3479,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Nature/Lymantria/Nature_Moth_Character_BP.Nature_Moth_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-291":
+	"BD-290":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Nature/Pteradon/Nature_Ptero_Character_BP.Nature_Ptero_Character_BP_C",
 		"dinonametag": "Ptero",
@@ -3503,7 +3491,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Nature/Pteradon/Nature_Ptero_Character_BP.Nature_Ptero_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-292":
+	"BD-291":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Allo/Electric_Allo_Character_BP.Electric_Allo_Character_BP_C",
 		"dinonametag": "Allo",
@@ -3515,7 +3503,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Allo/Electric_Allo_Character_BP.Electric_Allo_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-293":
+	"BD-292":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Argent/Electric_Argent_Character_BP.Electric_Argent_Character_BP_C",
 		"dinonametag": "Argent",
@@ -3527,7 +3515,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Argent/Electric_Argent_Character_BP.Electric_Argent_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-294":
+	"BD-293":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Carno/Electric_Carno_Character_BP.Electric_Carno_Character_BP_C",
 		"dinonametag": "Carno",
@@ -3539,7 +3527,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Carno/Electric_Carno_Character_BP.Electric_Carno_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-295":
+	"BD-294":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Bear/Electric_Direbear_Character_BP.Electric_Direbear_Character_BP_C",
 		"dinonametag": "Direbear",
@@ -3551,7 +3539,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Bear/Electric_Direbear_Character_BP.Electric_Direbear_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-296":
+	"BD-295":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Giga/Electric_Gigant_Character_BP.Electric_Gigant_Character_BP_C",
 		"dinonametag": "Gigant",
@@ -3563,7 +3551,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Giga/Electric_Gigant_Character_BP.Electric_Gigant_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-297":
+	"BD-296":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Griffin/Electric_Griffin_Character_BP.Electric_Griffin_Character_BP_C",
 		"dinonametag": "Griffin",
@@ -3575,7 +3563,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Griffin/Electric_Griffin_Character_BP.Electric_Griffin_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-298":
+	"BD-297":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Raptor/Electric_Raptor_Character_BP.Electric_Raptor_Character_BP_C",
 		"dinonametag": "Raptor",
@@ -3587,7 +3575,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Raptor/Electric_Raptor_Character_BP.Electric_Raptor_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-299":
+	"BD-298":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Rex/Electric_Rex_Character_BP.Electric_Rex_Character_BP_C",
 		"dinonametag": "Rex",
@@ -3599,7 +3587,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Rex/Electric_Rex_Character_BP.Electric_Rex_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-300":
+	"BD-299":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Saber/Electric_Saber_Character_BP.Electric_Saber_Character_BP_C",
 		"dinonametag": "Saber",
@@ -3611,7 +3599,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Saber/Electric_Saber_Character_BP.Electric_Saber_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-301":
+	"BD-300":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Araneo/Electric_Spider_Character_BP.Electric_Spider_Character_BP_C",
 		"dinonametag": "Spider",
@@ -3623,7 +3611,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Araneo/Electric_Spider_Character_BP.Electric_Spider_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-302":
+	"BD-301":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/TerrorBird/Electric_TerrorBird_Character_BP.Electric_TerrorBird_Character_BP_C",
 		"dinonametag": "TerrorBird",
@@ -3635,7 +3623,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/TerrorBird/Electric_TerrorBird_Character_BP.Electric_TerrorBird_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-303":
+	"BD-302":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Storm/Thyla/Electric_Thylacoleo_Character_BP.Electric_Thylacoleo_Character_BP_C",
 		"dinonametag": "Thylacoleo",
@@ -3647,7 +3635,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Storm/Thyla/Electric_Thylacoleo_Character_BP.Electric_Thylacoleo_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-304":
+	"BD-303":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Allo/Volcanic_Allo_Character_BP_PN.Volcanic_Allo_Character_BP_PN_C",
 		"dinonametag": "Allo",
@@ -3659,7 +3647,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Allo/Volcanic_Allo_Character_BP_PN.Volcanic_Allo_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-305":
+	"BD-304":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Ankylosaurus/Volcanic_Ankylo_Character_BP_PN.Volcanic_Ankylo_Character_BP_PN_C",
 		"dinonametag": "Ankylo",
@@ -3671,7 +3659,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Ankylosaurus/Volcanic_Ankylo_Character_BP_PN.Volcanic_Ankylo_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-306":
+	"BD-305":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Arthropluera/Volcanic_Arthro_Character_BP_PN.Volcanic_Arthro_Character_BP_PN_C",
 		"dinonametag": "Arthro",
@@ -3683,7 +3671,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Arthropluera/Volcanic_Arthro_Character_BP_PN.Volcanic_Arthro_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-307":
+	"BD-306":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Deathworm/Volcanic_Deathworm_Character_BP_PN.Volcanic_Deathworm_Character_BP_PN_C",
 		"dinonametag": "Deathworm",
@@ -3695,7 +3683,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Deathworm/Volcanic_Deathworm_Character_BP_PN.Volcanic_Deathworm_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-308":
+	"BD-307":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Dodo/Volcanic_Dodo_Character_BP_PN.Volcanic_Dodo_Character_BP_PN_C",
 		"dinonametag": "Dodo",
@@ -3707,7 +3695,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Dodo/Volcanic_Dodo_Character_BP_PN.Volcanic_Dodo_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-309":
+	"BD-308":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Raptor/Volcanic_Raptor_Character_BP_PN.Volcanic_Raptor_Character_BP_PN_C",
 		"dinonametag": "Raptor",
@@ -3719,7 +3707,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Raptor/Volcanic_Raptor_Character_BP_PN.Volcanic_Raptor_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-310":
+	"BD-309":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Ravager/Volcanic_Ravager_Character_BP_PN.Volcanic_Ravager_Character_BP_PN_C",
 		"dinonametag": "Ravager",
@@ -3731,7 +3719,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Ravager/Volcanic_Ravager_Character_BP_PN.Volcanic_Ravager_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-311":
+	"BD-310":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Rex/Volcanic_Rex_Character_BP_PN.Volcanic_Rex_Character_BP_PN_C",
 		"dinonametag": "Rex",
@@ -3743,7 +3731,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Rex/Volcanic_Rex_Character_BP_PN.Volcanic_Rex_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-312":
+	"BD-311":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Rhynio/Volcanic_Rhynio_Character_BP_PN.Volcanic_Rhynio_Character_BP_PN_C",
 		"dinonametag": "Rhynio",
@@ -3755,7 +3743,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Rhynio/Volcanic_Rhynio_Character_BP_PN.Volcanic_Rhynio_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-313":
+	"BD-312":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Spino/Volcanic_Spino_Character_BP_PN.Volcanic_Spino_Character_BP_PN_C",
 		"dinonametag": "Spino",
@@ -3767,7 +3755,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Spino/Volcanic_Spino_Character_BP_PN.Volcanic_Spino_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-314":
+	"BD-313":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Tapejara/Volcanic_Tapejara_Character_BP_PN.Volcanic_Tapejara_Character_BP_PN_C",
 		"dinonametag": "Tapejara",
@@ -3779,7 +3767,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Tapejara/Volcanic_Tapejara_Character_BP_PN.Volcanic_Tapejara_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-315":
+	"BD-314":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Thorny/Volcanic_Thorny_Character_BP_PN.Volcanic_Thorny_Character_BP_PN_C",
 		"dinonametag": "Thorny",
@@ -3791,7 +3779,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Thorny/Volcanic_Thorny_Character_BP_PN.Volcanic_Thorny_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-316":
+	"BD-315":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Trike/Volcanic_Trike_Character_BP_PN.Volcanic_Trike_Character_BP_PN_C",
 		"dinonametag": "Trike",
@@ -3803,7 +3791,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Trike/Volcanic_Trike_Character_BP_PN.Volcanic_Trike_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-317":
+	"BD-316":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Argy/Argent_Character_BP_Plasma_C",
 		"dinonametag": "Argent",
@@ -3815,7 +3803,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Argy/Argent_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-318":
+	"BD-317":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Cerato/Ceratosaurus_Character_BP_Plasma_C",
 		"dinonametag": "Cerato",
@@ -3827,7 +3815,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Cerato/Ceratosaurus_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-319":
+	"BD-318":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Direbear/Direbear_Character_BP_Plasma_C",
 		"dinonametag": "Direbear",
@@ -3839,7 +3827,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Direbear/Direbear_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-320":
+	"BD-319":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Wolf/Direwolf_Character_BP_Plasma_C",
 		"dinonametag": "Direwolf",
@@ -3851,7 +3839,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Wolf/Direwolf_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-321":
+	"BD-320":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Equus/Equus_Character_BP_Plasma_C",
 		"dinonametag": "Equus",
@@ -3863,7 +3851,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Equus/Equus_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-322":
+	"BD-321":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Gigantoraptor/Gigantoraptor_Character_BP_Plasma_C",
 		"dinonametag": "Gigantoraptor",
@@ -3875,7 +3863,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Gigantoraptor/Gigantoraptor_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-323":
+	"BD-322":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Ptero/Ptero_Character_BP_Plasma_C",
 		"dinonametag": "Ptero",
@@ -3887,7 +3875,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Ptero/Ptero_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-324":
+	"BD-323":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Raptor/Raptor_Character_BP_Plasma_C",
 		"dinonametag": "Raptor",
@@ -3899,7 +3887,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Raptor/Raptor_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-325":
+	"BD-324":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Ravager/CaveWolf_Character_BP_Plasma_C",
 		"dinonametag": "Ravager",
@@ -3911,7 +3899,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Ravager/CaveWolf_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-326":
+	"BD-325":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/saber/Saber_Character_BP_Plasma_C",
 		"dinonametag": "Saber",
@@ -3923,10 +3911,10 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/saber/Saber_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-327":
+	"BD-326":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Terrorbird/TerrorBird_Character_BP_Plasma_C",
-		"dinonametag": "Terrorbird",
+		"dinonametag": "TerrorBird",
 		"dinodescription": "Plasma Terrorbird",
 		"hasegg": true,
 		"tameable": true,
@@ -3935,7 +3923,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Terrorbird/TerrorBird_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-328":
+	"BD-327":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Thyla/Thylacoleo_Character_BP_Plasma_C",
 		"dinonametag": "Thyla",
@@ -3947,7 +3935,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plasma/Thyla/Thylacoleo_Character_BP_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-329":
+	"BD-328":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/BerserkDragon/BeserkDragon_Character_BP_Ghost_C",
 		"dinonametag": "Dragon",
@@ -3959,7 +3947,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/BerserkDragon/BeserkDragon_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-330":
+	"BD-329":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/liopleurodon/Liopleurodon_Character_BP_Ghost_C",
 		"dinonametag": "Liopleurodon",
@@ -3971,7 +3959,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/liopleurodon/Liopleurodon_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-331":
+	"BD-330":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Catfish/Catfish_Character_BP_Ghost_C",
 		"dinonametag": "Catfish",
@@ -3983,7 +3971,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Catfish/Catfish_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-332":
+	"BD-331":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Ptera/Ptero_Character_BP_Ghost_C",
 		"dinonametag": "Ptera",
@@ -3995,7 +3983,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Ptera/Ptero_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-333":
+	"BD-332":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Cnidaria/Cnidaria_Character_BP_Ghost_C",
 		"dinonametag": "Cnidaria",
@@ -4007,7 +3995,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Cnidaria/Cnidaria_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-334":
+	"BD-333":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Dragonnotusedcurrently/Dragon_Character_BP_Ghost_C",
 		"dinonametag": "Dragon",
@@ -4019,7 +4007,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Dragonnotusedcurrently/Dragon_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-335":
+	"BD-334":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Electrophorus/Eel_Character_BP_Ghost_C",
 		"dinonametag": "Electrophorus",
@@ -4031,7 +4019,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Electrophorus/Eel_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-336":
+	"BD-335":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Hammerhead/Hammerhead_Character_BP_Ghost_C",
 		"dinonametag": "Hammerhead",
@@ -4043,7 +4031,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Hammerhead/Hammerhead_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-337":
+	"BD-336":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Manta/Manta_Character_BP_Ghost_C",
 		"dinonametag": "Manta",
@@ -4055,7 +4043,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Manta/Manta_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-338":
+	"BD-337":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Megalodon/Megalodon_Character_BP_Child_C",
 		"dinonametag": "Megalodon",
@@ -4067,7 +4055,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Megalodon/Megalodon_Character_BP_Child_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-339":
+	"BD-338":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Mosa/Mosa_Character_BP_Ghost_C",
 		"dinonametag": "Mosa",
@@ -4079,7 +4067,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Mosa/Mosa_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-340":
+	"BD-339":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/piranha/Piranha_Character_BP_Ghost_C",
 		"dinonametag": "Piranha",
@@ -4091,7 +4079,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/piranha/Piranha_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-341":
+	"BD-340":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Plesio/Plesiosaur_Character_BP_Ghost_C",
 		"dinonametag": "Plesio",
@@ -4103,7 +4091,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Plesio/Plesiosaur_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-342":
+	"BD-341":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Squid/Squid_Character_BP_Ghost_C",
 		"dinonametag": "Squid",
@@ -4115,7 +4103,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Squid/Squid_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-343":
+	"BD-342":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Swordfish/Swordfish_Character_BP_Ghost_C",
 		"dinonametag": "Swordfish",
@@ -4127,7 +4115,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Swordfish/Swordfish_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-344":
+	"BD-343":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Wyvern/Wyvern_Character_BP_Ghost_C",
 		"dinonametag": "Wyvern",
@@ -4139,7 +4127,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Ghost/Wyvern/Wyvern_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-345":
+	"BD-344":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Bigfoot/PlagueBigfoot_Character_BP_C",
 		"dinonametag": "Bigfoot",
@@ -4151,10 +4139,10 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Bigfoot/PlagueBigfoot_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-346":
+	"BD-345":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Dodorex/PlagueDodoRex_Character_BP_C",
-		"dinonametag": "Dodorex",
+		"dinonametag": "DodoRex",
 		"dinodescription": "Plague Dodorex",
 		"hasegg": true,
 		"tameable": true,
@@ -4163,7 +4151,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Dodorex/PlagueDodoRex_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-347":
+	"BD-346":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/frog/PlagueToad_Character_BP_PN_C",
 		"dinonametag": "Toad",
@@ -4175,7 +4163,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/frog/PlagueToad_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-348":
+	"BD-347":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/mantis/PlagueMantis_Character_BP_C",
 		"dinonametag": "Mantis",
@@ -4187,7 +4175,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/mantis/PlagueMantis_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-349":
+	"BD-348":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Megaraptor/PlagueMegaraptor_Character_BP_C",
 		"dinonametag": "Megaraptor",
@@ -4199,7 +4187,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Megaraptor/PlagueMegaraptor_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-350":
+	"BD-349":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Raptor/PlagueRaptor_Character_BP_C",
 		"dinonametag": "Raptor",
@@ -4211,7 +4199,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Raptor/PlagueRaptor_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-351":
+	"BD-350":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Rex/PlagueRex_Character_BP_PN_C",
 		"dinonametag": "Rex",
@@ -4223,7 +4211,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Rex/PlagueRex_Character_BP_PN_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-352":
+	"BD-351":
 	{
 		"dinostringref": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Trike/PlagueTrike_Character_BP_C",
 		"dinonametag": "Trike",
@@ -4235,7 +4223,7 @@
 		"softdinoclass": "/PrimalNemesis/Content/1Dinos/4Ghost_Plague_Plasma/Plague/Trike/PlagueTrike_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-353":
+	"BD-352":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Baryonyx/Bionic_Baryonyx_Character_BP.Bionic_Baryonyx_Character_BP_C",
 		"dinonametag": "Baryonyx",
@@ -4247,7 +4235,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Baryonyx/Bionic_Baryonyx_Character_BP.Bionic_Baryonyx_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-354":
+	"BD-353":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Doedicurus/Bionic_Doed_Character_BP.Bionic_Doed_Character_BP_C",
 		"dinonametag": "Doed",
@@ -4259,7 +4247,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Doedicurus/Bionic_Doed_Character_BP.Bionic_Doed_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-355":
+	"BD-354":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Enforcer/Bionic_Enforcer_Character_BP.Bionic_Enforcer_Character_BP_C",
 		"dinonametag": "Enforcer",
@@ -4271,7 +4259,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Enforcer/Bionic_Enforcer_Character_BP.Bionic_Enforcer_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-356":
+	"BD-355":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Megatherium/Bionic_Megatherium_Character_BP.Bionic_Megatherium_Character_BP_C",
 		"dinonametag": "Megatherium",
@@ -4283,7 +4271,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Megatherium/Bionic_Megatherium_Character_BP.Bionic_Megatherium_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-357":
+	"BD-356":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/giga/Bionic_Giga_Character_BP.Bionic_Giga_Character_BP_C",
 		"dinonametag": "Giga",
@@ -4295,7 +4283,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/giga/Bionic_Giga_Character_BP.Bionic_Giga_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-358":
+	"BD-357":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Procoptodon/Bionic_Procoptodon_Character_BP.Bionic_Procoptodon_Character_BP_C",
 		"dinonametag": "Procoptodon",
@@ -4307,7 +4295,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Procoptodon/Bionic_Procoptodon_Character_BP.Bionic_Procoptodon_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-359":
+	"BD-358":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Rex/Bionic_Rex_Character_BP.Bionic_Rex_Character_BP_C",
 		"dinonametag": "Rex",
@@ -4319,7 +4307,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Rex/Bionic_Rex_Character_BP.Bionic_Rex_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-360":
+	"BD-359":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Araneo/Bionic_Spider_Character_BP.Bionic_Spider_Character_BP_C",
 		"dinonametag": "Spider",
@@ -4331,7 +4319,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Araneo/Bionic_Spider_Character_BP.Bionic_Spider_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-361":
+	"BD-360":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Griffin/Demonic_Griffin_Character_BP.Demonic_Griffin_Character_BP_C",
 		"dinonametag": "Griffin",
@@ -4343,7 +4331,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Griffin/Demonic_Griffin_Character_BP.Demonic_Griffin_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-362":
+	"BD-361":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Parasaur/Demonic_Para_Character_BP.Demonic_Para_Character_BP_C",
 		"dinonametag": "Parasaur",
@@ -4355,7 +4343,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Parasaur/Demonic_Para_Character_BP.Demonic_Para_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-363":
+	"BD-362":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/0Bees/Demonic/DemonicBee_Queen_Character_BP.DemonicBee_Queen_Character_BP_C",
 		"dinonametag": "Bee",
@@ -4367,7 +4355,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/0Bees/Demonic/DemonicBee_Queen_Character_BP.DemonicBee_Queen_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-364":
+	"BD-363":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Golem/Demonic_RockGolem_Character_BP.Demonic_RockGolem_Character_BP_C",
 		"dinonametag": "RockGolem",
@@ -4379,7 +4367,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Golem/Demonic_RockGolem_Character_BP.Demonic_RockGolem_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-365":
+	"BD-364":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Wyvern/Demonic_Wyvern_Character_BP.Demonic_Wyvern_Character_BP_C",
 		"dinonametag": "Wyvern",
@@ -4391,7 +4379,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Wyvern/Demonic_Wyvern_Character_BP.Demonic_Wyvern_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-366":
+	"BD-365":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Thyla/Demonic_Thylacoleo_Character_BP.Demonic_Thylacoleo_Character_BP_C",
 		"dinonametag": "Thylacoleo",
@@ -4403,7 +4391,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Thyla/Demonic_Thylacoleo_Character_BP.Demonic_Thylacoleo_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-367":
+	"BD-366":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Argy/Celestial_Argent_Character_BP.Celestial_Argent_Character_BP_C",
 		"dinonametag": "Argy",
@@ -4415,7 +4403,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Argy/Celestial_Argent_Character_BP.Celestial_Argent_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-368":
+	"BD-367":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Cerato/Celestial_Ceratosaurus_Character_BP.Celestial_Ceratosaurus_Character_BP_C",
 		"dinonametag": "Ceratosaurus",
@@ -4427,7 +4415,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Cerato/Celestial_Ceratosaurus_Character_BP.Celestial_Ceratosaurus_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-369":
+	"BD-368":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Featherlight/Celestial_FeatherLight_Character_BP.Celestial_FeatherLight_Character_BP_C",
 		"dinonametag": "FeatherLight",
@@ -4439,7 +4427,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Featherlight/Celestial_FeatherLight_Character_BP.Celestial_FeatherLight_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-370":
+	"BD-369":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/GigantoRaptor/Celestial_Gigantoraptor_Character_BP.Celestial_Gigantoraptor_Character_BP_C",
 		"dinonametag": "Gigantoraptor",
@@ -4451,7 +4439,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/GigantoRaptor/Celestial_Gigantoraptor_Character_BP.Celestial_Gigantoraptor_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-371":
+	"BD-370":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Pegasus/Celestial_pegasus_character_BP.Celestial_pegasus_character_BP_C",
 		"dinonametag": "Pegasus",
@@ -4463,10 +4451,10 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Pegasus/Celestial_pegasus_character_BP.Celestial_pegasus_character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-372":
+	"BD-371":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Phoenix/Celestial_Phoenix_Character_BP.Celestial_Phoenix_Character_BP_C",
-		"dinonametag": "Phoenix",
+		"dinonametag": "phoenix",
 		"dinodescription": "Celestial Phoenix",
 		"hasegg": true,
 		"tameable": true,
@@ -4475,7 +4463,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Phoenix/Celestial_Phoenix_Character_BP.Celestial_Phoenix_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-373":
+	"BD-372":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/0Bees/Celestial/CelestialBee_Queen_Character_BP.CelestialBee_Queen_Character_BP_C",
 		"dinonametag": "Bee",
@@ -4487,7 +4475,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/0Bees/Celestial/CelestialBee_Queen_Character_BP.CelestialBee_Queen_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-374":
+	"BD-373":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Thorny/Celestial_SpineyLizard_Character_BP.Celestial_SpineyLizard_Character_BP_C",
 		"dinonametag": "Dragon",
@@ -4499,7 +4487,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Thorny/Celestial_SpineyLizard_Character_BP.Celestial_SpineyLizard_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-375":
+	"BD-374":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/7Godly/Broodmother/Godly_Broodmother_BP.Godly_Broodmother_BP_C",
 		"dinonametag": "Broodmother",
@@ -4511,7 +4499,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/7Godly/Broodmother/Godly_Broodmother_BP.Godly_Broodmother_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-376":
+	"BD-375":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/7Godly/Crabby/Godly_Crab_Character_BP.Godly_Crab_Character_BP_C",
 		"dinonametag": "Crab",
@@ -4523,7 +4511,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/7Godly/Crabby/Godly_Crab_Character_BP.Godly_Crab_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-377":
+	"BD-376":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/7Godly/Trike/Godly_Trike_BP.Godly_Trike_BP_C",
 		"dinonametag": "Trike",
@@ -4535,7 +4523,7 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/7Godly/Trike/Godly_Trike_BP.Godly_Trike_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-378":
+	"BD-377":
 	{
 		"dinostringref": "/PrimalNemesis/1Dinos/7Godly/Tiger/Godly_SaberKing_BP.Godly_SaberKing_BP_C",
 		"dinonametag": "SaberKing",
@@ -4547,10 +4535,10 @@
 		"softdinoclass": "/PrimalNemesis/1Dinos/7Godly/Tiger/Godly_SaberKing_BP.Godly_SaberKing_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-379":
+	"BD-378":
 	{
 		"dinostringref": "/PrimalNemesis/3Items/Metalsystem/1ResourceGolem/ResourceRockGolem_Character_BP.ResourceRockGolem_Character_BP_C",
-		"dinonametag": "Golem",
+		"dinonametag": "golem",
 		"dinodescription": "Resource Rock Golem",
 		"hasegg": true,
 		"tameable": true,
@@ -4559,7 +4547,7 @@
 		"softdinoclass": "/PrimalNemesis/3Items/Metalsystem/1ResourceGolem/ResourceRockGolem_Character_BP.ResourceRockGolem_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-380":
+	"BD-379":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/Lootboss/1Alpha/AlphaLoot_Character_BP.AlphaLoot_Character_BP_C",
 		"dinonametag": "Lootboss",
@@ -4571,7 +4559,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/Lootboss/1Alpha/AlphaLoot_Character_BP.AlphaLoot_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-381":
+	"BD-380":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/Lootboss/GodlyLoot_Character_BP.GodlyLoot_Character_BP_C",
 		"dinonametag": "Lootboss",
@@ -4583,7 +4571,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/Lootboss/GodlyLoot_Character_BP.GodlyLoot_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-382":
+	"BD-381":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/Lootboss/4ADVElemental/ADVElementalLoot_Character_BP.ADVElementalLoot_Character_BP_C",
 		"dinonametag": "Lootboss",
@@ -4595,7 +4583,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/Lootboss/4ADVElemental/ADVElementalLoot_Character_BP.ADVElementalLoot_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-383":
+	"BD-382":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/Lootboss/AngelicLoot_Character_BP.AngelicLoot_Character_BP_C",
 		"dinonametag": "Lootboss",
@@ -4607,7 +4595,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/Lootboss/AngelicLoot_Character_BP.AngelicLoot_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-384":
+	"BD-383":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/Lootboss/3Elemental/ElementalLoot_Character_BP.ElementalLoot_Character_BP_C",
 		"dinonametag": "Lootboss",
@@ -4619,7 +4607,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/Lootboss/3Elemental/ElementalLoot_Character_BP.ElementalLoot_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-385":
+	"BD-384":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/Lootboss/2Apex/ApexLoot_Character_BP.ApexLoot_Character_BP_C",
 		"dinonametag": "Lootboss",
@@ -4631,7 +4619,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/Lootboss/2Apex/ApexLoot_Character_BP.ApexLoot_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-386":
+	"BD-385":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/6Godly/Nemesis_Character_BP.Nemesis_Character_BP_C",
 		"dinonametag": "Nemesis",
@@ -4643,7 +4631,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/6Godly/Nemesis_Character_BP.Nemesis_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-387":
+	"BD-386":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Godly/Boss/G_Boss_Titan_Character_BP.G_Boss_Titan_Character_BP_C",
 		"dinonametag": "Titan",
@@ -4655,7 +4643,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Godly/Boss/G_Boss_Titan_Character_BP.G_Boss_Titan_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-388":
+	"BD-387":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/5CelestialAndDemonic/demonic/DemonicBoss_Character_BP.DemonicBoss_Character_BP_C",
 		"dinonametag": "Lucifer",
@@ -4667,7 +4655,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/5CelestialAndDemonic/demonic/DemonicBoss_Character_BP.DemonicBoss_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-389":
+	"BD-388":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/0TameableBosses/DemonicLucifer/DemonicBoss_Character_BP_Tameable.DemonicBoss_Character_BP_Tameable_C",
 		"dinonametag": "Tameable",
@@ -4679,7 +4667,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/0TameableBosses/DemonicLucifer/DemonicBoss_Character_BP_Tameable.DemonicBoss_Character_BP_Tameable_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-390":
+	"BD-389":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/5CelestialAndDemonic/Celestial/Celestial_Hydra_Character_BP.Celestial_Hydra_Character_BP_C",
 		"dinonametag": "Lord",
@@ -4691,7 +4679,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/5CelestialAndDemonic/Celestial/Celestial_Hydra_Character_BP.Celestial_Hydra_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-391":
+	"BD-390":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/0TameableBosses/CelestialHydra/Celestial_Hydra_Character_BP_Tameable.Celestial_Hydra_Character_BP_Tameable_C",
 		"dinonametag": "Tameable",
@@ -4703,10 +4691,10 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/0TameableBosses/CelestialHydra/Celestial_Hydra_Character_BP_Tameable.Celestial_Hydra_Character_BP_Tameable_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-392":
+	"BD-391":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/4BionicBoss/2Boss/BossBionic_Golem_Character_BP.BossBionic_Golem_Character_BP_C",
-		"dinonametag": "Golem",
+		"dinonametag": "golem",
 		"dinodescription": "Bionic Metal Golem",
 		"hasegg": true,
 		"tameable": true,
@@ -4715,10 +4703,10 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/4BionicBoss/2Boss/BossBionic_Golem_Character_BP.BossBionic_Golem_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-393":
+	"BD-392":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/4BionicBoss/1Minibosses/SwordMaster/SwordMaster_Character_BP.SwordMaster_Character_BP_C",
-		"dinonametag": "Swordmaster",
+		"dinonametag": "swordmaster",
 		"dinodescription": "Bionic Swordmaster",
 		"hasegg": true,
 		"tameable": true,
@@ -4727,7 +4715,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/4BionicBoss/1Minibosses/SwordMaster/SwordMaster_Character_BP.SwordMaster_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-394":
+	"BD-393":
 	{
 		"dinostringref": "/PrimalNemesis/3Items/TameableBionic/Swordmaster/SwordMaster_Character_BP_Tameable.SwordMaster_Character_BP_Tameable_C",
 		"dinonametag": "Tameable",
@@ -4739,7 +4727,7 @@
 		"softdinoclass": "/PrimalNemesis/3Items/TameableBionic/Swordmaster/SwordMaster_Character_BP_Tameable.SwordMaster_Character_BP_Tameable_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-395":
+	"BD-394":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/4BionicBoss/1Minibosses/Terminator/TerminatorGiga_Character_BP.TerminatorGiga_Character_BP_C",
 		"dinonametag": "Giga",
@@ -4751,7 +4739,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/4BionicBoss/1Minibosses/Terminator/TerminatorGiga_Character_BP.TerminatorGiga_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-396":
+	"BD-395":
 	{
 		"dinostringref": "/PrimalNemesis/3Items/TameableBionic/Terminator/TerminatorGiga_Character_BP_Tameable.TerminatorGiga_Character_BP_Tameable_C",
 		"dinonametag": "Tameable",
@@ -4763,7 +4751,7 @@
 		"softdinoclass": "/PrimalNemesis/3Items/TameableBionic/Terminator/TerminatorGiga_Character_BP_Tameable.TerminatorGiga_Character_BP_Tameable_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-397":
+	"BD-396":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/4BionicBoss/1Minibosses/ScionOfDarkness/ScionOfDarkness_Character_BP.ScionOfDarkness_Character_BP_C",
 		"dinonametag": "Darkness",
@@ -4775,7 +4763,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/4BionicBoss/1Minibosses/ScionOfDarkness/ScionOfDarkness_Character_BP.ScionOfDarkness_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-398":
+	"BD-397":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Parasaur/BionicPara_Character_BP_Ancient.BionicPara_Character_BP_Ancient_C",
 		"dinonametag": "Para",
@@ -4787,7 +4775,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Parasaur/BionicPara_Character_BP_Ancient.BionicPara_Character_BP_Ancient_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-399":
+	"BD-398":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Quetz/BionicQuetz_Character_BP_Ancient.BionicQuetz_Character_BP_Ancient_C",
 		"dinonametag": "Quetz",
@@ -4799,7 +4787,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Quetz/BionicQuetz_Character_BP_Ancient.BionicQuetz_Character_BP_Ancient_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-400":
+	"BD-399":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Raptor/BionicRaptor_Character_BP_Ancient.BionicRaptor_Character_BP_Ancient_C",
 		"dinonametag": "Raptor",
@@ -4811,7 +4799,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Raptor/BionicRaptor_Character_BP_Ancient.BionicRaptor_Character_BP_Ancient_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-401":
+	"BD-400":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Rex/BionicRex_Character_BP_Ancient.BionicRex_Character_BP_Ancient_C",
 		"dinonametag": "Rex",
@@ -4823,7 +4811,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Rex/BionicRex_Character_BP_Ancient.BionicRex_Character_BP_Ancient_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-402":
+	"BD-401":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Stego/BionicStego_Character_BP_Ancient.BionicStego_Character_BP_Ancient_C",
 		"dinonametag": "Stego",
@@ -4835,7 +4823,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Stego/BionicStego_Character_BP_Ancient.BionicStego_Character_BP_Ancient_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-403":
+	"BD-402":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Trike/BionicTrike_Character_BP_Ancient.BionicTrike_Character_BP_Ancient_C",
 		"dinonametag": "Trike",
@@ -4847,7 +4835,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/BossTiers/AncientTek/Trike/BionicTrike_Character_BP_Ancient.BionicTrike_Character_BP_Ancient_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-404":
+	"BD-403":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/1Normal/3Ghost_Plague_Plasma/Ghostboss/DesertKaiju_Character_BP_Ghost.DesertKaiju_Character_BP_Ghost_C",
 		"dinonametag": "Boss",
@@ -4859,7 +4847,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/1Normal/3Ghost_Plague_Plasma/Ghostboss/DesertKaiju_Character_BP_Ghost.DesertKaiju_Character_BP_Ghost_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-405":
+	"BD-404":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/1Normal/3Ghost_Plague_Plasma/plagueboss/Rockwell_Character_BP_Plague.Rockwell_Character_BP_Plague_C",
 		"dinonametag": "Boss",
@@ -4871,7 +4859,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/1Normal/3Ghost_Plague_Plasma/plagueboss/Rockwell_Character_BP_Plague.Rockwell_Character_BP_Plague_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-406":
+	"BD-405":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/1Normal/3Ghost_Plague_Plasma/plasmaboss/EndBoss_Character_Plasma.EndBoss_Character_Plasma_C",
 		"dinonametag": "Boss",
@@ -4883,7 +4871,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/1Normal/3Ghost_Plague_Plasma/plasmaboss/EndBoss_Character_Plasma.EndBoss_Character_Plasma_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-407":
+	"BD-406":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Electric/Boss/E_Boss_Titan_Character_BP.E_Boss_Titan_Character_BP_C",
 		"dinonametag": "Colossus",
@@ -4895,7 +4883,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Electric/Boss/E_Boss_Titan_Character_BP.E_Boss_Titan_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-408":
+	"BD-407":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/Storm/Storm_Titan_Character_BP_Youngling.Storm_Titan_Character_BP_Youngling_C",
 		"dinonametag": "Youngling",
@@ -4907,10 +4895,10 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/Storm/Storm_Titan_Character_BP_Youngling.Storm_Titan_Character_BP_Youngling_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-409":
+	"BD-408":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Storm/Storm_Titan_Character_BP_Whelpling_Tamed.Storm_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "Tamed",
+		"dinonametag": "tamed",
 		"dinodescription": "Storm Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -4919,7 +4907,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Storm/Storm_Titan_Character_BP_Whelpling_Tamed.Storm_Titan_Character_BP_Whelpling_Tamed_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-410":
+	"BD-409":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Storm/Storm_Titan_Character_BP_Youngling_EVO.Storm_Titan_Character_BP_Youngling_EVO_C",
 		"dinonametag": "EVO",
@@ -4931,7 +4919,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Storm/Storm_Titan_Character_BP_Youngling_EVO.Storm_Titan_Character_BP_Youngling_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-411":
+	"BD-410":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Storm/Storm_Titan_Character_BP_Adult_EVO.Storm_Titan_Character_BP_Adult_EVO_C",
 		"dinonametag": "EVO",
@@ -4943,7 +4931,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Storm/Storm_Titan_Character_BP_Adult_EVO.Storm_Titan_Character_BP_Adult_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-412":
+	"BD-411":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Earth/Boss/ea_Boss_Titan_Character_BP.ea_Boss_Titan_Character_BP_C",
 		"dinonametag": "Colossus",
@@ -4955,7 +4943,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Earth/Boss/ea_Boss_Titan_Character_BP.ea_Boss_Titan_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-413":
+	"BD-412":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/Earth/Earth_Titan_Character_BP_Youngling.Earth_Titan_Character_BP_Youngling_C",
 		"dinonametag": "Youngling",
@@ -4967,10 +4955,10 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/Earth/Earth_Titan_Character_BP_Youngling.Earth_Titan_Character_BP_Youngling_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-414":
+	"BD-413":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Earth/Earth_Titan_Character_BP_Whelpling_Tamed.Earth_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "Tamed",
+		"dinonametag": "tamed",
 		"dinodescription": "Earth Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -4979,7 +4967,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Earth/Earth_Titan_Character_BP_Whelpling_Tamed.Earth_Titan_Character_BP_Whelpling_Tamed_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-415":
+	"BD-414":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Earth/Earth_Titan_Character_BP_Youngling_EVO.Earth_Titan_Character_BP_Youngling_EVO_C",
 		"dinonametag": "EVO",
@@ -4991,7 +4979,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Earth/Earth_Titan_Character_BP_Youngling_EVO.Earth_Titan_Character_BP_Youngling_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-416":
+	"BD-415":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Earth/Earth_Titan_Character_BP_Adult_EVO.Earth_Titan_Character_BP_Adult_EVO_C",
 		"dinonametag": "EVO",
@@ -5003,7 +4991,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Earth/Earth_Titan_Character_BP_Adult_EVO.Earth_Titan_Character_BP_Adult_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-417":
+	"BD-416":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Hydro/Boss/h_Boss_Titan_Character_BP.h_Boss_Titan_Character_BP_C",
 		"dinonametag": "Colossus",
@@ -5015,7 +5003,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Hydro/Boss/h_Boss_Titan_Character_BP.h_Boss_Titan_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-418":
+	"BD-417":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/Hydro/Hydro_Titan_Character_BP_Youngling.Hydro_Titan_Character_BP_Youngling_C",
 		"dinonametag": "Youngling",
@@ -5027,10 +5015,10 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/Hydro/Hydro_Titan_Character_BP_Youngling.Hydro_Titan_Character_BP_Youngling_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-419":
+	"BD-418":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Hydro/Hydro_Titan_Character_BP_Whelpling_Tamed.Hydro_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "Tamed",
+		"dinonametag": "tamed",
 		"dinodescription": "Hydro Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -5039,7 +5027,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Hydro/Hydro_Titan_Character_BP_Whelpling_Tamed.Hydro_Titan_Character_BP_Whelpling_Tamed_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-420":
+	"BD-419":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Hydro/Hydro_Titan_Character_BP_Youngling_EVO.Hydro_Titan_Character_BP_Youngling_EVO_C",
 		"dinonametag": "EVO",
@@ -5051,7 +5039,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Hydro/Hydro_Titan_Character_BP_Youngling_EVO.Hydro_Titan_Character_BP_Youngling_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-421":
+	"BD-420":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Hydro/Hydro_Titan_Character_BP_Adult_Adult_EVO.Hydro_Titan_Character_BP_Adult_Adult_EVO_C",
 		"dinonametag": "EVO",
@@ -5063,7 +5051,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Hydro/Hydro_Titan_Character_BP_Adult_Adult_EVO.Hydro_Titan_Character_BP_Adult_Adult_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-422":
+	"BD-421":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Ice/Boss/I_Boss_Titan_Character_BP.I_Boss_Titan_Character_BP_C",
 		"dinonametag": "Colossus",
@@ -5075,7 +5063,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Ice/Boss/I_Boss_Titan_Character_BP.I_Boss_Titan_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-423":
+	"BD-422":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/Frost/Frost_Titan_Character_BP_Youngling.Frost_Titan_Character_BP_Youngling_C",
 		"dinonametag": "Youngling",
@@ -5087,10 +5075,10 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/Frost/Frost_Titan_Character_BP_Youngling.Frost_Titan_Character_BP_Youngling_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-424":
+	"BD-423":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Frost/Frost_Titan_Character_BP_Whelpling_Tamed.Frost_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "Tamed",
+		"dinonametag": "tamed",
 		"dinodescription": "Frost Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -5099,7 +5087,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Frost/Frost_Titan_Character_BP_Whelpling_Tamed.Frost_Titan_Character_BP_Whelpling_Tamed_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-425":
+	"BD-424":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Frost/Frost_Titan_Character_BP_Youngling_EVO.Frost_Titan_Character_BP_Youngling_EVO_C",
 		"dinonametag": "EVO",
@@ -5111,7 +5099,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Frost/Frost_Titan_Character_BP_Youngling_EVO.Frost_Titan_Character_BP_Youngling_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-426":
+	"BD-425":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Frost/Frost_Titan_Character_BP_Adult_EVO.Frost_Titan_Character_BP_Adult_EVO_C",
 		"dinonametag": "EVO",
@@ -5123,7 +5111,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Frost/Frost_Titan_Character_BP_Adult_EVO.Frost_Titan_Character_BP_Adult_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-427":
+	"BD-426":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Nature/Boss/N_Boss_Titan_Character_BP.N_Boss_Titan_Character_BP_C",
 		"dinonametag": "Colossus",
@@ -5135,7 +5123,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Nature/Boss/N_Boss_Titan_Character_BP.N_Boss_Titan_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-428":
+	"BD-427":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/Nature/Nature_Titan_Character_BP_Youngling.Nature_Titan_Character_BP_Youngling_C",
 		"dinonametag": "Youngling",
@@ -5147,10 +5135,10 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/Nature/Nature_Titan_Character_BP_Youngling.Nature_Titan_Character_BP_Youngling_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-429":
+	"BD-428":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Nature/Nature_Titan_Character_BP_Whelpling_Tamed.Nature_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "Tamed",
+		"dinonametag": "tamed",
 		"dinodescription": "Nature Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -5159,7 +5147,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Nature/Nature_Titan_Character_BP_Whelpling_Tamed.Nature_Titan_Character_BP_Whelpling_Tamed_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-430":
+	"BD-429":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Nature/Nature_Titan_Character_BP_Youngling_EVO.Nature_Titan_Character_BP_Youngling_EVO_C",
 		"dinonametag": "EVO",
@@ -5171,7 +5159,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Nature/Nature_Titan_Character_BP_Youngling_EVO.Nature_Titan_Character_BP_Youngling_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-431":
+	"BD-430":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Nature/Nature_Titan_Character_BP_Adult_EVO.Nature_Titan_Character_BP_Adult_EVO_C",
 		"dinonametag": "EVO",
@@ -5183,7 +5171,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Nature/Nature_Titan_Character_BP_Adult_EVO.Nature_Titan_Character_BP_Adult_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-432":
+	"BD-431":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Volcanic/Boss/v_Boss_Titan_Character_BP.v_Boss_Titan_Character_BP_C",
 		"dinonametag": "Colossus",
@@ -5195,7 +5183,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/TieredBosses/2ElementalBosses/Volcanic/Boss/v_Boss_Titan_Character_BP.v_Boss_Titan_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-433":
+	"BD-432":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/Volcanic/Volcanic_Titan_Character_BP_Youngling.Volcanic_Titan_Character_BP_Youngling_C",
 		"dinonametag": "Youngling",
@@ -5207,10 +5195,10 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/Volcanic/Volcanic_Titan_Character_BP_Youngling.Volcanic_Titan_Character_BP_Youngling_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-434":
+	"BD-433":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Volcanic/Volcanic_Titan_Character_BP_Whelpling_Tamed.Volcanic_Titan_Character_BP_Whelpling_Tamed_C",
-		"dinonametag": "Tamed",
+		"dinonametag": "tamed",
 		"dinodescription": "Volcanic Titan Whelpling Tamed",
 		"hasegg": true,
 		"tameable": true,
@@ -5219,7 +5207,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Volcanic/Volcanic_Titan_Character_BP_Whelpling_Tamed.Volcanic_Titan_Character_BP_Whelpling_Tamed_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-435":
+	"BD-434":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Volcanic/Volcanic_Titan_Character_BP_Youngling_EVO.Volcanic_Titan_Character_BP_Youngling_EVO_C",
 		"dinonametag": "EVO",
@@ -5231,7 +5219,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/2Youngling/Volcanic/Volcanic_Titan_Character_BP_Youngling_EVO.Volcanic_Titan_Character_BP_Youngling_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-436":
+	"BD-435":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Volcanic/Volcanic_Titan_Character_BP_Adult_EVO.Volcanic_Titan_Character_BP_Adult_EVO_C",
 		"dinonametag": "EVO",
@@ -5243,7 +5231,7 @@
 		"softdinoclass": "/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/3Adult/Volcanic/Volcanic_Titan_Character_BP_Adult_EVO.Volcanic_Titan_Character_BP_Adult_EVO_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
-	"BD-437":
+	"BD-436":
 	{
 		"dinostringref": "/PrimalNemesis/1Bosses/TieredBosses/1Apex/Cyclops_Character_BP.Cyclops_Character_BP_C",
 		"dinonametag": "Cyclops",
