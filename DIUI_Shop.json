@@ -1,6 +1,6 @@
 {
   "title": "<TextStyle.LightBlue>DANKE FÜR EURE UNTERSTÜTZUNG</>",
-  "text": "<TextStyle.Green>DINO­INSEL UNTERSTÜTZEN</>\r\nWenn ihr die Dinoinsel unterstützen möchtet, könnt ihr auf unserer Webseite <TextStyle.White>Coins & Token</> erwerben oder für uns voten.\r\n\r\n<TextStyle.Orange>INGAME-SHOP</>\r\nEure Coins könnt ihr direkt im Ingame-Shop über die Taste <TextStyle.White>F3</> ausgeben.\r\n\r\nVielen Dank für euren Support!",
+  "text": "<TextStyle.Green>DINO­INSEL UNTERSTÜTZEN</>\r\nWenn ihr die Dinoinsel unterstützen möchtet, könnt ihr auf unserer\r\nWebseite <TextStyle.White>Coins & Token</> erwerben oder für uns voten.\r\n\r\n<TextStyle.Orange>INGAME-SHOP</>\r\nEure Coins könnt ihr direkt im Ingame-Shop über die Taste <TextStyle.White>F3</> ausgeben.\r\n\r\nVielen Dank für euren Support!",
   "duration": 30,
   "image": "https://raw.githubusercontent.com/Spicy-007/PrimalNemesisInsel/refs/heads/main/DIUI-Shop3.png"
 }
