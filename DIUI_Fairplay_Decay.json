@@ -1,6 +1,6 @@
 {
-  "title": "<TextStyle.LightBlue>FAIRPLAY & DECAY</>",
-  "text": "<TextStyle.Green>FAIRPLAY & MITEINANDER</>\r\nBitte achtet stets auf ein <TextStyle.White>freundliches Miteinander</>, gegenseitigen Respekt und Fairplay.\r\nBei Problemen oder Unstimmigkeiten nutzt bitte unser <TextStyle.White>Ticketsystem</>, damit wir euch schnell helfen können.\r\n\r\n<TextStyle.Orange>DECAY-TIMER</>\r\nBitte behaltet euren Decay im Blick: Der Standard-Decay beträgt <TextStyle.White>14 Tage</>.\r\nAbsolventen der Decay-Quest erhalten einen verlängerten Decay von <TextStyle.White>30 Tagen</>.\r\nWeitere Informationen findet ihr jederzeit unter <TextStyle.White>F1</>.",
+  "title": "<TextStyle.LightBlue>WICHTIGE HINWEISE</>",
+  "text": "<TextStyle.Green>FAIRPLAY & MITEINANDER</>\r\nBitte achtet stets auf ein <TextStyle.White>freundliches Miteinander</>,\r\ngegenseitigen Respekt und Fairplay.\r\nBei Problemen oder Unstimmigkeiten nutzt bitte unser <TextStyle.White>Ticketsystem</>.\r\nSo können wir euch schnell und gezielt helfen.\r\n\r\n<TextStyle.Orange>DECAY-TIMER</>\r\nBitte behaltet euren Decay im Blick.\r\nStandard-Decay: <TextStyle.White>14 Tage</>\r\nNach Abschluss der Decay-Quest: <TextStyle.White>30 Tage</>\r\nWeitere Informationen findet ihr unter <TextStyle.White>F1</>.",
   "duration": 120,
   "image": "https://raw.githubusercontent.com/Spicy-007/PrimalNemesisInsel/refs/heads/main/DIUI-Fairplay.png"
 }
