@@ -1,6 +1,6 @@
 {
   "title": "Die Dinoinsel <TextStyle.Green>Far</><TextStyle.Yellow>ben</><TextStyle.Violet>saf</><TextStyle.Red>ari</>!",
-  "text": "Hallo Abenteurer!\r\nUnsere wöchentliche <TextStyle.Green>Farbensafari</> geht weiter, also schnappt euch\r\nden <TextStyle.White>gesuchten Dino</> und sichert euch\r\n<TextStyle.Orange>tolle\r\nBelohnungen!</>\r\n\r\nAlle Infos findet ihr auf Discord unter: <TextStyle.White>Events -> Farbensafari</>\r\noder\r\nim Discord \r\n<TextStyle.White>Information-Center -> Farbensafari</>.",
+  "text": "Hallo Abenteurer!\r\nUnsere wöchentliche <TextStyle.Green>Farbensafari</> geht weiter, also schnappt euch\r\nden <TextStyle.White>gesuchten Dino</> und sichert euch <TextStyle.Orange>tolle\r\nBelohnungen!</>\r\n\r\nAlle Infos findet ihr auf Discord unter: <TextStyle.White>Events -> Farbensafari</>\r\noder im Discord <TextStyle.White>Information-Center -> Farbensafari</>.",
   "duration": 30,
   "image": "https://raw.githubusercontent.com/Spicy-007/PrimalNemesisInsel/refs/heads/main/DIUI-FS2.png"
 }
