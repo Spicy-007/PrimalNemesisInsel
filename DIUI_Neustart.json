@@ -1,6 +1,6 @@
 {
-  "title": "<TextStyle.red>Server Neustart</>",
-  "text": "<TextStyle.white>Der Server wird in 15 Minuten neustarten! Bitte vermeidet weiteres Traveln bis nach dem Neustart, um Inventarverluste zu vermeiden!</>",
+  "title": "<TextStyle.LightBlue>DANKE FÜR EURE UNTERSTÜTZUNG!</><TextStyle.Red> <3</>",
+  "text": "<TextStyle.Green>DINOINSEL UNTERSTÜTZEN</>\r\nWenn ihr die Dinoinsel unterstützen möchtet, könnt ihr auf\r\n<TextStyle.White>www.dinoinsel.de</> Coins & Token erwerben oder für uns voten.\r\n\r\n<TextStyle.Orange>INGAME-SHOP</>\r\nEure Coins könnt ihr direkt im Ingame-Shop über die Taste <TextStyle.White>F3</> ausgeben.\r\n\r\nWeitere Informationen findet ihr unter <TextStyle.White>F1</>.\r\n\r\nVielen Dank für euren Support!",
   "duration": 20,
-  "image": "https://raw.githubusercontent.com/Spicy-007/PrimalNemesisInsel/refs/heads/main/DI-UI2.png"
+  "image": "https://raw.githubusercontent.com/Spicy-007/PrimalNemesisInsel/refs/heads/main/DIUI-Shop4.png"
 }
